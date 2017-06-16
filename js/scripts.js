@@ -1,4 +1,4 @@
-console.log('hey?');
+console.log('HINT: ↑ ↑ ↓ ↓ ← → ← → B A ENTER');
 
 const pressed = [];
 const secretCode = ["ArrowUp", "ArrowUp", "ArrowDown", "ArrowDown", "ArrowLeft", "ArrowRight", "ArrowLeft", "ArrowRight", "b", "a", "Enter"];
@@ -241,5 +241,5 @@ window.addEventListener('keyup', (e) => {
     }
 });
 
-console.log(secretCode);
-console.log(secretCode);
+//console.log(secretCode);
+//console.log(secretCode);
