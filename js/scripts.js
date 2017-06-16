@@ -1,4 +1,4 @@
-console.log('HINT: ↑ ↑ ↓ ↓ ← → ← → B A ENTER');
+console.log('HINT: ↑ ↑ ↓ ↓ ← → ← → B A ENTER ');
 
 const pressed = [];
 const secretCode = ["ArrowUp", "ArrowUp", "ArrowDown", "ArrowDown", "ArrowLeft", "ArrowRight", "ArrowLeft", "ArrowRight", "b", "a", "Enter"];
